@@ -1,0 +1,12 @@
+{
+  "name": "tapcoin",
+  "version": "1.0.0",
+  "description": "Telegram Mini App - Tap to earn coin clicker game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["telegram", "mini-app", "tap-to-earn"],
+  "license": "MIT"
+}
